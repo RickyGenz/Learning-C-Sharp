@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageElementsChallengeTw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedChallengeOne", "ObjectOrientedChallengeOne\ObjectOrientedChallengeOne.csproj", "{00FA6C06-47CA-4C7B-A54F-2FE55B57C2B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredExceptionHandlingChallengeOne", "StructuredExceptionHandlingChallengeOne\StructuredExceptionHandlingChallengeOne.csproj", "{2D8DAA33-9A3F-45BB-9603-9629D34ECC55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{00FA6C06-47CA-4C7B-A54F-2FE55B57C2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00FA6C06-47CA-4C7B-A54F-2FE55B57C2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00FA6C06-47CA-4C7B-A54F-2FE55B57C2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8DAA33-9A3F-45BB-9603-9629D34ECC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8DAA33-9A3F-45BB-9603-9629D34ECC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8DAA33-9A3F-45BB-9603-9629D34ECC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8DAA33-9A3F-45BB-9603-9629D34ECC55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
