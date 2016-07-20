@@ -10,7 +10,10 @@ namespace LearningDotNet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            System.Console.WriteLine("Hello, World!");
+
+            // Improved version by utilizing the 'using' directive: using System;
+            Console.WriteLine("Hello, World!");
         }
     }
 }
